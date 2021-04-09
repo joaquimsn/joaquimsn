@@ -1,12 +1,22 @@
-### Hi there 👋
-
-<!--
-**joaquimsn/joaquimsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 "Café forte é café morto"
 
 - 🔭 I’m currently working on ...
+  - [![DP6](https://img.shields.io/badge/DP6-Software%20maintainer-orange)](http://dp6.github.io/)
 - 🌱 I’m currently learning ...
+
+### My Github life
+<a href="https://github.com/joaquimsn">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaquimsn" title="Streak stats" alt="Streak stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=joaquimsn&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+    title="Profile stats" alt="Profile stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimsn&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+    title="Top languages" alt="Top languages" />
+</a>
+
+<!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
