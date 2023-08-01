@@ -1,7 +1,7 @@
 ### Hi there 👋 "Café forte é café morto"
 
 - 🔭 I’m currently working on ...
-  - [![DP6](https://img.shields.io/badge/DP6-Software%20maintainer-orange)](http://dp6.github.io/)
+  
 - 🌱 I’m currently learning ...
 
 ### My Github life
